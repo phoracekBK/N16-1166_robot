@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="TIAProjectTexts_US.xml" projectName="D:\WORK\Projekty\Webasto\N16-1166 - Lepici bunka Rumunsko\Preklady_od_marka\TIAProjectTexts_US.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Information" dateTime="7:56:24 AM">
+    <Message>Text import started.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="7:56:26 AM">
+    <Message>Text import completed.</Message>
+  </LogEntry>
+</LogFile>
